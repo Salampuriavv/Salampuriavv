@@ -22,9 +22,9 @@ I believe in the power of collaboration and have volunteered for social causes, 
 Let's connect and collaborate on projects that make a difference!
 
 #### 📫 Reach me at: [vishweshsalampuria@gmail.com](mailto:vishweshsalampuria@gmail.com)
-#### 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vishwesh-salampuria)
-#### 🧩 LeetCode: [Your LeetCode](https://leetcode.com/Vishu_1812)
-#### 🏅 GFG: [Your GeeksforGeeks](https://auth.geeksforgeeks.org/user/vishweshsalampuria)
+#### 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vishwesh-salampuria)
+#### 🧩 LeetCode: [LeetCode](https://leetcode.com/Vishu_1812)
+#### 🏅 GFG: [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vishweshsalampuria)
 
 ### Let's code for a better tomorrow! 🚀
 
