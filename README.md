@@ -1,4 +1,4 @@
-## 👨‍💻 AI/ML Enthusiast | Backend Developer | Competitive Programmer
+## Exploring the depths of AI to build smarter solutions | Crafting the backbone of applications as a Backend Developer | Sharpening my problem-solving skills through competitive programming
 
 Welcome to my GitHub! I'm Vishweshkumar Vijaykumar Salampuria, a passionate technologist specializing in Artificial Intelligence and Machine Learning. With a strong foundation in competitive programming and backend development, I'm constantly exploring the depths of AI, ML, NLP, and DIP algorithms.
 
@@ -6,9 +6,6 @@ Welcome to my GitHub! I'm Vishweshkumar Vijaykumar Salampuria, a passionate tech
 
 ### 🔧 Tech Stack:
 Proficient in C++, Java, C, and Python. Experienced with web development technologies and frontend frameworks like React. I leverage libraries such as PyTorch, TensorFlow, Spacy, OpenCV, and Scikit-Learn for ML projects and use tools like Git, VSCode, and Pycharm for development.
-
-### ☁️ Cloud Savvy:
-Equipped with hands-on experience in AWS and Google Cloud, aiming to build scalable and efficient cloud-based solutions.
 
 ### 🛠️ Projects: 
 From creating an online e-commerce platform's frontend to developing a Python project for leak detection with 94% accuracy, I love tackling real-world problems with code. I thrive on challenges like hackathons, having participated in Microsoft's Fastest Coder and Unfold 2023.
