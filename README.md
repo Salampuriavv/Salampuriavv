@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vishweshkumar V Salampuria</h1>
+![image](https://github.com/user-attachments/assets/ff84b652-f5a7-4a8e-bb8a-45846ad9ef87)<h1 align="center">Hi 👋, I'm Vishweshkumar V Salampuria</h1>
 <h3 align="center">Crafting Code & Shaping Solutions: My Journey in Tech</h3>
+<img align = "right" , alt="coding" , width = "400" , src = "https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salampuriavv" alt="salampuriavv" /></a> </p>
 
